@@ -1,6 +1,22 @@
 # amirkabir-hw
-LaTeX template for MSc/BSc/PhD theses of University of Tehran.  
-<div dir="rtl">قالب لاتک پایان‌نامه دانشگاه تهران</div>
+قالب تمرین دانشگاه امیرکبیر
+
+
+## آموزش نصب xepersian
+
+> راهنمای گام به گام نصب LaTeX و xepersian در لینوکس
+> https://vrgl.ir/dmS20
+
+
+دانلود فایل zip پکیج xepersian از https://ctan.org/pkg/xepersian
+
+نصب xepersian با دستور
+
+```
+unzip -d `kpsewhich --var-value TEXMFLOCAL` ~/Downloads/xepersian.zip
+```
+
+---
 
 [![pipeline status](https://gitlab.com/hadi_sfr/amirkabir-hw-sina-momken/badges/master/pipeline.svg)](https://gitlab.com/hadi_sfr/amirkabir-hw-sina-momken/commits/master)
 
