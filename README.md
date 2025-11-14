@@ -1,6 +1,7 @@
 # amirkabir-hw
 قالب تمرین دانشگاه امیرکبیر
 
+forked from [sinamomken/tehran-thesis](https://github.com/sinamomken/tehran-thesis)
 
 ## آموزش نصب xepersian
 
@@ -17,8 +18,6 @@ unzip -d `kpsewhich --var-value TEXMFLOCAL` ~/Downloads/xepersian.zip
 ```
 
 ---
-
-[![pipeline status](https://gitlab.com/hadi_sfr/amirkabir-hw-sina-momken/badges/master/pipeline.svg)](https://gitlab.com/hadi_sfr/amirkabir-hw-sina-momken/commits/master)
 
 ## راهنمای فارسی
 ### ویژگی‌ها
